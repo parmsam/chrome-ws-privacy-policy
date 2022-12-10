@@ -4,7 +4,7 @@ To better protect your privacy I provide this privacy policy notice explaining t
 
 ## Collection of Routine Information
 
-My Chrome extensions or apps do not collect information about their users. Since no data is collected by me in my Chrome extensions or apps, no data can be sold to third parties.
+My Chrome extensions or apps do not collect information about their users. They only access or store data locally on your machine needed to function and do not transmit it. Since no data is collected by me in my Chrome extensions or apps, no data can be sold to third parties.
 
 ## Security
 
